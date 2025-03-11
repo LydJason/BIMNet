@@ -11,8 +11,8 @@
 <a class="name" href="https://github.com/list17">Shengtao Li</a>,
 <a class="name">Ming Gu</a> 
 </section>
-<h4>School of software, Tsinghua University</h4>
-<p><sup>&#x2709;</sup>Corresponding Author</p>
+<h4>School of Software, Tsinghua University</h4>
+<!-- <p><sup>&#x2709;</sup>Corresponding Author</p> -->
 <p align="center">
 <a href="" target='_blank'><img src="http://img.shields.io/badge/Paper📝-Elsevier-b31b1b"></a>
 <a href="https://thucbims.github.io/bimnet.thucbims.github.io/" target='_blank'><img src="http://img.shields.io/badge/Homepage🌐-BIMNet-blue"></a>
@@ -40,7 +40,7 @@ To address these challenges, this paper proposes BIMNet, an IFC-based large-scal
 - **Domain-specific benchmark:** Novel geomertic and topologic benchmark for scan-to-BIM.
 
 ## 📊 Dataset
-The data download link will be released soon. We welcome you to visit our [homepage](https://thucbims.github.io/bimnet.thucbims.github.io/) to preview data samples.
+We demonstrate some of the dataset construction processes here. For more details, please refer to the [paper](). Meanwhile, we welcome you to visit our [homepage](https://thucbims.github.io/bimnet.thucbims.github.io/) to preview data samples.
 
 <p align="center">
 <img width="80%" src="image/workflow.jpg">
@@ -60,9 +60,17 @@ in the section view. (b) Component selection and placement in the plan view.
 <em>Figure 3: Automated point cloud semantic annotation refinement.</em>
 </p>
 
+## 📥 Download
+You should first request access to <a href="https://niessner.github.io/Matterport/">Matterport3D dataset</a> as our dataset is based on Matterport3D. Please fill and sign the <a href="https://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf">Terms of Use</a> agreement form and send it to <span style="color: blueviolet;">matterport3d@googlegroups.com</span> to request access to Matterport3D dataset.
+If your request is approved, please send their reply email to us at <span style="color: blueviolet;">thubimnet@outlook.com</span> to get access to our dataset.
+
+## 📖 BibTeX
+Comming Soon.
 
 ## 📜 License
 <p>The original data from Matterport3D dataset is released under <a href="https://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf">Terms of Use</a> agreement. The part of our datset is under <a href="https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/LICENSE.txt">MIT Liscence</a>.</p>
 
 ## 📧 Contact
 <p>Please contact us at <span style="color: blueviolet;">thubimnet@outlook.com</span> if you have any questions.</p>
+
+Copyright © 2025 CBIMS Research Group.
