@@ -14,7 +14,7 @@
 <h4>School of Software, Tsinghua University</h4>
 <!-- <p><sup>&#x2709;</sup>Corresponding Author</p> -->
 <p align="center">
-<a href="" target='_blank'><img src="http://img.shields.io/badge/Paper📝-Elsevier-b31b1b"></a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0926580525001360" target='_blank'><img src="http://img.shields.io/badge/Paper📝-Elsevier-b31b1b"></a>
 <a href="https://thucbims.github.io/bimnet.thucbims.github.io/" target='_blank'><img src="http://img.shields.io/badge/Homepage🌐-BIMNet-blue"></a>
 </p>
 </header>
@@ -40,7 +40,7 @@ To address these challenges, this paper proposes BIMNet, an IFC-based large-scal
 - **Domain-specific benchmark:** Novel geomertic and topologic benchmark for scan-to-BIM.
 
 ## 📊 Dataset
-We demonstrate some of the dataset construction processes here. For more details, please refer to the [paper](). Meanwhile, we welcome you to visit our [homepage](https://thucbims.github.io/bimnet.thucbims.github.io/) to preview data samples.
+We demonstrate some of the dataset construction processes here. For more details, please refer to the [paper](https://www.sciencedirect.com/science/article/pii/S0926580525001360). Meanwhile, we welcome you to visit our [homepage](https://thucbims.github.io/bimnet.thucbims.github.io/) to preview data samples.
 
 <p align="center">
 <img width="80%" src="image/workflow.jpg">
@@ -65,12 +65,25 @@ You should first request access to <a href="https://niessner.github.io/Matterpor
 If your request is approved, please send their reply email to us at <span style="color: blueviolet;">thubimnet@outlook.com</span> to get access to our dataset.
 
 ## 📖 BibTeX
-Comming Soon.
+If you find BIMNet useful in your research, please cite our work:
+```bibtex
+@article{liu2025dataset,
+title = {Dataset and benchmark for as-built {BIM} reconstruction from real-world point cloud},
+journal = {Automation in Construction},
+volume = {173},
+pages = {106096},
+year = {2025},
+issn = {0926-5805},
+doi = {https://doi.org/10.1016/j.autcon.2025.106096},
+url = {https://www.sciencedirect.com/science/article/pii/S0926580525001360},
+author = {Yudong Liu and Han Huang and Ge Gao and Ziyi Ke and Shengtao Li and Ming Gu}
+}
+```
 
 ## 📜 License
 <p>The original data from Matterport3D dataset is released under <a href="https://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf">Terms of Use</a> agreement. The part of our datset is under <a href="https://raw.githubusercontent.com/vsislab/Matterport3D-Layout/master/LICENSE.txt">MIT Liscence</a>.</p>
 
 ## 📧 Contact
-<p>Please contact us at <span style="color: blueviolet;">thubimnet@outlook.com</span> if you have any questions.</p>
+Please contact us at <span style="color: blueviolet;">thubimnet@outlook.com</span> if you have any questions.
 
 Copyright © 2025 CBIMS Research Group.
