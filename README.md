@@ -3,6 +3,9 @@
 <h1><img src="image/icon.png" style="width: 40px; height: 40px; margin-right: -3px;margin-bottom: -3px;">
 <b>BIMNet:</b> Dataset and benchmark for as-built BIM reconstruction from real-world point cloud</h1>
 <p id="accept">Automation in Construction, 2025</p>
+<p style="font-weight: bold; color: darkorange; font-size: 18px;">
+  🏆 Best Student Research Award – buildingSMART openBIM Award 2025
+</p>
 <section id="authors">
 <a class="name">Yudong Liu</a>, 
 <a class="name" href="https://github.com/alvin528">Han Huang</a>,
@@ -12,6 +15,7 @@
 <a class="name">Ming Gu</a> 
 </section>
 <h4>School of Software, Tsinghua University</h4>
+
 <!-- <p><sup>&#x2709;</sup>Corresponding Author</p> -->
 <p align="center">
 <a href="https://www.sciencedirect.com/science/article/pii/S0926580525001360" target='_blank'><img src="http://img.shields.io/badge/Paper📝-Elsevier-b31b1b"></a>
@@ -19,6 +23,11 @@
 </p>
 </header>
 </div>
+
+## 📰 News
+- **2025-09**: Our work won the **Best Student Research Award** at the *buildingSMART openBIM Award 2025*. 🎉
+- **2025-03**: Our paper was accepted by *Automation in Construction, 2025*.  
+- **2025-03**: BIMNet dataset was released.  
 
 ## 📝 Abstract
 As-built BIM reconstruction plays a significant role in urban renewal and building digitization but currently faces challenges of low efficiency. Scan-to-BIM aims to improve reconstruction efficiency but lacks domain-specific, large-scale datasets and accurate, multi-dimensional benchmark metrics. These deficiencies further impede the evaluation and training of scan-to-BIM methods.
@@ -62,7 +71,9 @@ in the section view. (b) Component selection and placement in the plan view.
 
 ## 📥 Download
 You should first request access to <a href="https://niessner.github.io/Matterport/">Matterport3D dataset</a> as our dataset is based on Matterport3D. Please fill and sign the <a href="https://kaldir.vc.in.tum.de/matterport/MP_TOS.pdf">Terms of Use</a> agreement form and send it to <span style="color: blueviolet;">matterport3d@googlegroups.com</span> to request access to Matterport3D dataset.
-If your request is approved, please send their reply email to us at <span style="color: blueviolet;">thubimnet@outlook.com</span> to get access to our dataset.
+If your request is approved, please send <b>the form and their reply email</b> to us at <span style="color: blueviolet;">thubimnet@outlook.com</span> to get access to our dataset.
+You will receive a download link, organized according to the file hierarchy described in [data_organization.md](data_organization.md), for downloading our BIMNet dataset.
+
 
 ## 📖 BibTeX
 If you find BIMNet useful in your research, please cite our work:
